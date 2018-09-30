@@ -5,7 +5,8 @@ my i3wm config (with gaps) + i3bar config + other useful stuff
 ```
 sudo apt install i3
 ```
-# install i3-gaps following https://github.com/Airblader/i3/wiki/Compiling-&-Installing
+# install i3-gaps 
+following https://github.com/Airblader/i3/wiki/Compiling-&-Installing
 
 * get dependencies
 ```
